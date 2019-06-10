@@ -10,7 +10,18 @@ My current research interests include statistics and machine learning, my adviso
       <img src="/GT logo.jpg" width="80%">
     </td>
     <td width="75%">
-      <p><b>M.S. Statistics(2021), Georgia Institute of Technology</b></p>
+      <p><b>M.S. Statistics(2019-2021), Georgia Institute of Technology</b></p>
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="20%">
+      <img src="/UCLA.png" width="80%">
+    </td>
+    <td width="75%">
+      <p><b>Summer Exchange(2018), University of California, Los Angeles</b></p>
     </td>
   </tr>
 </table>
@@ -21,7 +32,7 @@ My current research interests include statistics and machine learning, my adviso
       <img src="/lzu.jpg" width="80%">
     </td>
     <td width="75%">
-      <p><b>B.S. Applied Mathematics(2019), Lanzhou University</b></p>
+      <p><b>B.S. Applied Mathematics(2015-2019), Lanzhou University</b></p>
     </td>
   </tr>
 </table><br/><br/><br/>
