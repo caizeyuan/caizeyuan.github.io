@@ -14,7 +14,7 @@ B.S. Applied Mathematics (2019) , Lanzhou University
 
 ## Skills
 
-python, R, Matlab, C++
+python, R, Matlab, C++.
 
 
 ## Interests
