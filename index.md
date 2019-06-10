@@ -1,15 +1,10 @@
-# About Me
+## About Me
 
 I am a graduate student in School of Industrial and Systems Engineering at Georgia Tech. Before I joined Georgia Tech, I received my bachelor degree in School of Mathematics and Statistics from LZU. 
 
 My current research interests include statistics and machine learning. 
 
-# Skills
-
-Python, R, Matlab, C++, etc.
-
-
-# Education
+## Education
 <table border="0">
   <tr>
     <td width="20%">
@@ -32,8 +27,11 @@ Python, R, Matlab, C++, etc.
   </tr>
 </table>
 
+## Skills
 
-# Interests
+Python, R, Matlab, C++, etc.
+
+## Interests
 
 <table border="0">
   <tr>
