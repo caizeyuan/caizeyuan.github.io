@@ -1,7 +1,7 @@
 ## About Me
 I am a graduate student in School of Industrial and Systems Engineering at Georgia Tech. Before I joined Georgia Tech, I received my bachelor degree in School of Mathematics and Statistics from LZU. 
 
-My current research interests include statistics and machine learning, my advisor is Brani Vidakovic.  
+My current research interests include statistics and machine learning, my advisor is Brani Vidakovic.</br></br></br>
 
 ## Education
 <table border="0">
@@ -24,11 +24,11 @@ My current research interests include statistics and machine learning, my adviso
       <p><b>B.S. Applied Mathematics(2019), Lanzhou University</b></p>
     </td>
   </tr>
-</table>  
+</table></br></br></br>
 
 ## Skills
 
-Python, R, Matlab, C++, etc.  
+Python, R, Matlab, C++, etc.</br></br></br>
 
 ## Interests
 
