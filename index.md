@@ -5,8 +5,6 @@ You can use the [editor on GitHub](https://github.com/caizeyuan/caizeyuan.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Education
-<img src="/lzu.jpg" width="10%"/>B.S. Applied Mathematics (2019) , Lanzhou University
-
 
 ## Interests
 
