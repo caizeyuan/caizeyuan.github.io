@@ -3,6 +3,8 @@ I am a graduate student in School of Industrial and Systems Engineering at Georg
 
 My current research interests include statistics and machine learning. 
 </br>
+</br>
+</br>
 
 ## Education
 <table border="0">
@@ -26,10 +28,16 @@ My current research interests include statistics and machine learning.
     </td>
   </tr>
 </table>
+</br>
+</br>
+</br>
 
 ## Skills
 
 Python, R, Matlab, C++, etc.
+</br>
+</br>
+</br>
 
 ## Interests
 
