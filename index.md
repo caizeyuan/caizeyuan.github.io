@@ -13,10 +13,10 @@ Python, R, Matlab, C++, etc.
 <table border="0">
   <tr>
     <td width="20%">
-      <img src="/GT logo.jpg" width="80%"><p><b>
+      <img src="/GT logo.jpg" width="80%">
     </td>
     <td width="75%">
-      M.S. Statistics(2021), Georgia Institute of Technology</b></p>  
+      M.S. Statistics(2021), Georgia Institute of Technology
     </td>
   </tr>
 </table>
@@ -24,10 +24,10 @@ Python, R, Matlab, C++, etc.
 <table border="0">
   <tr>
     <td width="20%">
-      <img src="/lzu.jpg" width="80%"><p><b>
+      <img src="/lzu.jpg" width="80%">
     </td>
     <td width="75%">
-      B.S. Applied Mathematics(2019), Lanzhou University</b></p>  
+      B.S. Applied Mathematics(2019), Lanzhou University
     </td>
   </tr>
 </table>
