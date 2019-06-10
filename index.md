@@ -31,7 +31,7 @@ My current research interests include statistics and machine learning.
 
 ## Skills
 
-python, R, Matlab, C++, etc.
+Python, R, Matlab, C++, etc.
 
 
 ## Interests
