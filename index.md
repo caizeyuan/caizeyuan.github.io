@@ -4,10 +4,18 @@ I am a graduate student in School of Industrial and Systems Engineering at Georg
 
 My current research interests include statistics and machine learning. 
 
+
 ## Education
+
 M.S. Statistics (2021) , Georgia Institute of Technology
 
 B.S. Applied Mathematics (2019) , Lanzhou University
+
+
+## Skills
+
+python, R, Matlab, C++
+
 
 ## Interests
 
