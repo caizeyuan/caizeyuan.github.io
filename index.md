@@ -1,7 +1,7 @@
 ## About Me
 I am a graduate student in School of Industrial and Systems Engineering at Georgia Tech. Before I joined Georgia Tech, I received my bachelor degree in School of Mathematics and Statistics from LZU. 
 
-My current research interests include statistics and machine learning. 
+My current research interests include statistics and machine learning, my advisor is Brani Vidakovic.
 </br>
 </br>
 </br>
@@ -65,6 +65,20 @@ Python, R, Matlab, C++, etc.
     </td>
     <td width="25%">
       <img src="/exercise.PNG" width="100%">      
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="74%">
+      <p><b>Music&Singers</b></p> 
+      <p>● G.E.M. 光年之外</p>
+      <p>● Eason 沙龙</p>
+      <p>● Jay Chou 夜曲</p>
+    </td>
+    <td width="26%">
+      <img src="/the Beatles.JPG" width="100%">      
     </td>
   </tr>
 </table>
