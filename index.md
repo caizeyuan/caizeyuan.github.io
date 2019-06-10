@@ -6,18 +6,59 @@ My current research interests include statistics and machine learning.
 
 
 ## Education
+<table border="0">
+  <tr>
+    <td width="20%">
+      <img src="/GT logo.jpg" width="80%"><p><b>
+    </td>
+    <td width="75%">
+      M.S. Statistics(2021), Georgia Institute of Technology</b></p>  
+    </td>
+  </tr>
+</table>
 
-M.S. Statistics (2021) , Georgia Institute of Technology
-
-B.S. Applied Mathematics (2019) , Lanzhou University
+<table border="0">
+  <tr>
+    <td width="20%">
+      <img src="/lzu.jpg" width="80%"><p><b>
+    </td>
+    <td width="75%">
+      B.S. Applied Mathematics(2019), Lanzhou University</b></p>  
+    </td>
+  </tr>
+</table>
 
 
 ## Skills
 
-python, R, Matlab, C++.
+python, R, Matlab, C++, etc.
 
 
 ## Interests
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>ACG</h1>
+      <p><b>● Japanese animation</b></p>
+      <p><b>● Pixar movie</b></p>
+      <p><b>● Dota 2</b></p>
+    </td>
+    <td width="25%">
+      <img src="/sloth.JPG" width="100%">      
+    </td>
+  </tr>
+</table>
 
-ACG, swimming and running
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Sports</h1>
+      <p><b>● Physical exercise</b></p>
+      <p><b>● Long-distance race</b></p>
+      <p><b>● Freestyle</b></p>
+    </td>
+    <td width="25%">
+      <img src="/exercise.PNG" width="100%">      
+    </td>
+  </tr>
+</table>
