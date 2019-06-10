@@ -43,42 +43,42 @@ Python, R, Matlab, C++, etc.
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <p><b>ACG</b></p>
       <p>● Japanese animation</p>
       <p>● Pixar movie</p>
       <p>● Dota 2</p>
     </td>
-    <td width="25%">
-      <img src="/sloth.JPG" width="100%">      
+    <td width="40%">
+      <img src="/sloth.JPG" width="200%">      
     </td>
   </tr>
 </table>
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <p><b>Sports</b></p> 
       <p>● Physical exercise</p>
       <p>● Long-distance race</p>
       <p>● Freestyle</p>
     </td>
-    <td width="25%">
-      <img src="/exercise.PNG" width="100%">      
+    <td width="40%">
+      <img src="/exercise.PNG" width="200%">      
     </td>
   </tr>
 </table>
 
 <table border="0">
   <tr>
-    <td width="74%">
+    <td width="60%">
       <p><b>Music&Singers</b></p> 
       <p>● G.E.M. 光年之外</p>
       <p>● Eason 沙龙</p>
       <p>● Jay Chou 夜曲</p>
     </td>
-    <td width="26%">
-      <img src="/the Beatles.JPG" width="100%">      
+    <td width="40%">
+      <img src="/the Beatles.JPG" width="200%">      
     </td>
   </tr>
 </table>
