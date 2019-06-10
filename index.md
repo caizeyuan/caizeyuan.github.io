@@ -44,10 +44,10 @@ Python, R, Matlab, C++, etc.
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>ACG</h1>
-      <p><b>● Japanese animation</b></p>
-      <p><b>● Pixar movie</b></p>
-      <p><b>● Dota 2</b></p>
+      <p><b>ACG</b></p>
+      <p>● Japanese animation</p>
+      <p>● Pixar movie</p>
+      <p>● Dota 2</p>
     </td>
     <td width="25%">
       <img src="/sloth.JPG" width="100%">      
@@ -58,10 +58,10 @@ Python, R, Matlab, C++, etc.
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Sports</h1>
-      <p><b>● Physical exercise</b></p>
-      <p><b>● Long-distance race</b></p>
-      <p><b>● Freestyle</b></p>
+      <p><b>Sports</b></p> 
+      <p>● Physical exercise</p>
+      <p>● Long-distance race</p>
+      <p>● Freestyle</p>
     </td>
     <td width="25%">
       <img src="/exercise.PNG" width="100%">      
